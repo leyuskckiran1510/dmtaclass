@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/dmtaclasses/__init__.py
+src/dmtaclasses/_callbacks.py
+src/dmtaclasses/dmtaclasses.py
+src/dmtaclasses/dmtaclasses.pyi
+src/dmtaclasses.egg-info/PKG-INFO
+src/dmtaclasses.egg-info/SOURCES.txt
+src/dmtaclasses.egg-info/dependency_links.txt
+src/dmtaclasses.egg-info/top_level.txt

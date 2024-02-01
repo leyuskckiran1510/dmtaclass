@@ -1,0 +1,10 @@
+# virtual Environemt
+.venv
+
+
+# local temp files
+___*
+
+# pycaches
+__pycache__
+
