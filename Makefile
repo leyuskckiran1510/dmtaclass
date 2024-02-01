@@ -1,8 +1,8 @@
 test:build
-	python -m unittest -f
-	python test_dmtaclasses/*_test.py
+	python3.12 -m unittest -f
+	python3.12 test_dmtaclasses/*_test.py
 
 build:
-	python -m pip install -U build
-	python -m build
-	python -m pip install dist/*.whl
+	python3.12 -m pip install -U build
+	python3.12 -m build
+	python3.12 -m pip install dist/*.whl
