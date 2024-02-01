@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dmtaclass"
+version = "0.0.1"
+authors = [
+  { name="leyuskc", email="leyuskc@duck.com" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/leyuskckiran1510/dmtaclass"
+Issues = "https://github.com/leyuskckiran1510/dmtaclass/issues"
